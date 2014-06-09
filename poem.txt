@@ -39,5 +39,4 @@ archy
 - Don Marquis, 'archy and mehitabel'
 
 
-seems like a recipe for disaster
-trying to do two things at once
+does this work if I try this way
