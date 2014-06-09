@@ -39,4 +39,8 @@ archy
 - Don Marquis, 'archy and mehitabel'
 
 
+<<<<<<< HEAD
 seems like a recipe for disaster
+=======
+trying to do two things at once
+>>>>>>> e69856554b333d0e145b99b3e021ab02e4530fdc
