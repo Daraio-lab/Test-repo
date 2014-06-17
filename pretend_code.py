@@ -7,5 +7,5 @@ x = sin(t)
 y = THEMOST_Advanced_Wavelet_Function(x)
 
 fy = Haar_Wavelet_Function(x)
-# This sill never work, so ein Mist...
+
 
